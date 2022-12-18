@@ -4,4 +4,4 @@
 # Create a variable called 'answer' and assign it the multiplication of a and b.
 a = 5
 b = 4
-answer = a*b
+answer = a * b
