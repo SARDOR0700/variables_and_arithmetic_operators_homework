@@ -2,4 +2,7 @@
 
 # Create a variable "b"  and assign it the value of the int 9.
 
-# Create a variable called "answer" and assign it the division of a by b.
+# Create a variable called "answer" and assign it the division of a by 
+a = 72
+b = 9
+answer = a / b
