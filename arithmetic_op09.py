@@ -11,4 +11,4 @@ a = 8
 b = 3
 c = 2
 d = 2
-answer = a+b - c -d
+answer = a+b - c * d
